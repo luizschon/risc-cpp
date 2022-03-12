@@ -1,7 +1,7 @@
 # Trabalho 2 - Simulador RV32I - OAC
 Código e artefatos escritos por Luiz Carlos Schonarth Junior, matrícula 19/0055171, Departamento de Ciência da Computação, UnB.
 
-##Informações do Sistema
+## Informações do Sistema
 - SO: Manjaro Linux x86_63
 - Kernel: 5.10.59-1-MANJARO
 - g++/gcc versão 11.1.0
